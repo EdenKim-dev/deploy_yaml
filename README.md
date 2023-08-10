@@ -35,7 +35,7 @@ spec:
         spec:
             containers:
                 - name: frontend
-                  image: krmp-d2hub-idock.9rum.cc/dev-test/repo_2f4ae2147fcc
+                  image: krmp-d2hub-idock.9rum.cc/dev-test/techcamp-frontend
                   imagePullPolicy: Always
                   ports:
                       - containerPort: 80
